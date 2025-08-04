@@ -1,0 +1,9 @@
+bin/
+lib/
+*.class
+*.log
+*.tmp
+*.swp
+*.iml
+.DS_Store
+Thumbs.db
